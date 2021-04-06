@@ -1,2 +1,19 @@
-# Vue-loginPage
-## 这个是通过vue-cli+vue-router+axios+antd来完成的简易登陆界面。
+# demo
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
