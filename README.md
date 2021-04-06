@@ -1,4 +1,6 @@
 # demo
+this one just use vue-cli+axios+vue-router+antd to build a simple login page!
+thanks
 
 ## Project setup
 ```
